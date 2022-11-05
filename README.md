@@ -12,7 +12,7 @@ El modelo guardado es el archivo *Food_Classification.h5*
 
 Para probar el modelo cargado es a través del Jupyter Notebook *Loaded Food Model.ipynb* y se utilizan las imagenes de la carpeta *Examples*.  
 
-Demostración del modelo: www.youtube.com
+Demostración del modelo: https://youtu.be/oERrEd9EwFk
 
 **Consideraciones**
 * Tener tanto los archivos .ipynb como los datasets en la misma carpeta.
