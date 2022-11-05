@@ -1,7 +1,7 @@
 # TC3007C_Deep_Learning
 
 **Descripción**  
-Se realizó la implementación de un modelo de deep learning con el uso de Tensorflow y Keras con el uso de un dataset clasificando 11 tipo de comida.  
+Se realizó la implementación de un modelo de deep learning con el uso de Tensorflow y Keras con el uso de un dataset clasificando 11 tipos de comida.  
 
 Los datos se extrajeron de Kaggle utilizando el [Food-11 image dataset](https://www.kaggle.com/datasets/trolukovich/food11-image-dataset).
 
